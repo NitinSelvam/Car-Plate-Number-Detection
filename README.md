@@ -20,6 +20,6 @@ Method 2: Directly get the text present in image using Python's [PyTesseract](ht
 
 I have observed that method 1 performs better than method 2 in some images, and the reverse is true in some images. Hence, I have kept both the methods for now.
 
-Sample input:
+## Sample input:
 
-![Input Image]
+![Input Image](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png)
