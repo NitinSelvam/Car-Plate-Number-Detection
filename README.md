@@ -27,6 +27,6 @@ I have observed that method 1 performs better than method 2 in some images, and 
 ## Sample output:
 
 <p float="left">
-  <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png" width="500" />
-  <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Number_plate.png" width="500" /> 
+  <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png" width="400" />
+  <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Number_plate.png" width="400" /> 
 </p>
