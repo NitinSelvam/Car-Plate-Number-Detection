@@ -30,3 +30,7 @@ I have observed that method 1 performs better than method 2 in some images, and 
   <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png" width="400" />
   <img src="https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Number_plate.png" width="400" /> 
 </p>
+
+### Console Output:
+Character Segmentation prediction:  MCV1154 --> From Method 1
+Tesseract Predict:  BMS CV 1154! -->From Method 2
