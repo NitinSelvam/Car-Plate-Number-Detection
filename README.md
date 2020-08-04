@@ -22,4 +22,10 @@ I have observed that method 1 performs better than method 2 in some images, and 
 
 ## Sample input:
 
-![Input Image](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png)
+![Input Image](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/car_back_5.jpg)
+
+## Sample output:
+
+[Output image with number plate tagged](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Car%20image.png)
+[Number plate](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Number_plate.png)
+[Console output](https://github.com/NitinSelvam/Car-Plate-Number-Detection/blob/master/sample/Output.png)
