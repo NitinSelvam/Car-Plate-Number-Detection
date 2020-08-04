@@ -32,5 +32,5 @@ I have observed that method 1 performs better than method 2 in some images, and 
 </p>
 
 ### Console Output:
-Character Segmentation prediction:  MCV1154 --> From Method 1 \
-Tesseract Predict:  BMS CV 1154! -->From Method 2
+Character Segmentation prediction:  MCV1154 --> (From Method 1) \
+Tesseract Predict:  BMS CV 1154! --> (From Method 2)
